@@ -67,10 +67,11 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#foreword">https://en.wikipedia.org/wiki/Gilbert_Cannan</meta>
 		<meta property="se:url.authority.nacoaf" refines="#foreword">https://id.loc.gov/authorities/names/n50051536</meta>
 		<meta property="role" refines="#foreword" scheme="marc:relators">aui</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">Anders Zorn</dc:contributor>
+		<meta property="file-as" refines="#artist">Zorn, Anders</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Anders Leonard Zorn</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Anders_Zorn</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n80063107</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Juliet Sutherland</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Sutherland, Juliet</meta>
