@@ -36,14 +36,14 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A group of young Russians veer between nihilism and hedonism as they try to discover their place in life.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Vladimir Sanine has arrived back to the family home where his mother and younger sister live, after several years away. While deciding what to do with his life, he meets up with a circle of friends and acquaintances, old and new, and spends his time as many carefree young adults do, in a whirl of parties, politics, picnics and philosophical talk. The freedoms of early twentieth century Russia are however still held back by the structures of historical conduct, and their carefree attitudes erode when put in conflict with society’s expectations.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;Sanine&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/mikhail-artsybashev"&gt;Mikael Artsybashev&lt;/a&gt; describes a group of young adults in a time of great uncertainty, with ongoing religion and political upheaval a daily occurrence. A big focus of the critical response when it was published was on the portrayed sexuality of the youths, something genuinely new and shocking for most readers. Artsybashev considered his writing to be influenced by the Russian greats (&lt;a href="https://standardebooks.org/ebooks/anton-chekhov"&gt;Chekhov&lt;/a&gt;, &lt;a href="https://standardebooks.org/ebooks/fyodor-dostoevsky"&gt;Dostoevsky&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Tolstoy&lt;/a&gt;) but also by the individual anarchism of the philosopher Max Stirner. &lt;i&gt;Sanine&lt;/i&gt; was originally written in 1903 but publication was delayed until 1907 due to problems with censorship. Even publication didn’t stop Artsybashev’s problems, as by 1908 the novel was banned as “pornographic.” This edition is based on the 1915 translation by Percy Pinkerton.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/9051</dc:source>
 		<dc:source>https://archive.org/details/sanineart00artsuoft</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Sanin_(novel)</meta>
