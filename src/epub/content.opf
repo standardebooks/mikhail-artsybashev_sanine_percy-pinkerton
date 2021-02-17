@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/mikhail-artsybashev/sanine/percy-pinkerton</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-02-17T18:06:26Z</dc:date>
+		<meta property="dcterms:modified">2021-02-17T18:06:26Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -38,14 +38,15 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A group of young Russians veer between nihilism and hedonism as they try to discover their place in life.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Vladimir Sanine has arrived back to the family home where his mother and younger sister live, after several years away. While deciding what to do with his life, he meets up with a circle of friends and acquaintances, old and new, and spends his time as many carefree young adults do, in a whirl of parties, politics, picnics and philosophical talk. The freedoms of early twentieth century Russia are however still held back by the structures of historical conduct, and their carefree attitudes erode when put in conflict with society’s expectations.&lt;/p&gt;
-			&lt;p&gt;In &lt;i&gt;Sanine&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/mikhail-artsybashev"&gt;Mikael Artsybashev&lt;/a&gt; describes a group of young adults in a time of great uncertainty, with ongoing religion and political upheaval a daily occurrence. A big focus of the critical response when it was published was on the portrayed sexuality of the youths, something genuinely new and shocking for most readers. Artsybashev considered his writing to be influenced by the Russian greats (&lt;a href="https://standardebooks.org/ebooks/anton-chekhov"&gt;Chekhov&lt;/a&gt;, &lt;a href="https://standardebooks.org/ebooks/fyodor-dostoevsky"&gt;Dostoevsky&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Tolstoy&lt;/a&gt;) but also by the individual anarchism of the philosopher Max Stirner. &lt;i&gt;Sanine&lt;/i&gt; was originally written in 1903 but publication was delayed until 1907 due to problems with censorship. Even publication didn’t stop Artsybashev’s problems, as by 1908 the novel was banned as “pornographic.” This edition is based on the 1915 translation by Percy Pinkerton.&lt;/p&gt;
+			&lt;p&gt;Vladimir Sanine has arrived back to the family home where his mother and younger sister live, after several years away. While deciding what to do with his life, he meets up with a circle of friends and acquaintances, old and new, and spends his time as many carefree young adults do: in a whirl of parties, politics, picnics, and philosophical talk. But the freedoms of early twentieth century Russia are still held back by the structures of historical conduct, and their carefree attitudes erode when put in conflict with society’s expectations.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;Sanine&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/mikhail-artsybashev"&gt;Artsybashev&lt;/a&gt; describes a group of young adults in a time of great uncertainty, with ongoing religious and political upheaval a daily occurrence. A big focus of the critical response when it was published was on the portrayal of sexuality of the youths, something genuinely new and shocking for most readers.&lt;/p&gt;
+			&lt;p&gt;Artsybashev considered his writing to be influenced by the Russian greats (&lt;a href="https://standardebooks.org/ebooks/anton-chekhov"&gt;Chekhov&lt;/a&gt;, &lt;a href="https://standardebooks.org/ebooks/fyodor-dostoevsky"&gt;Dostoevsky&lt;/a&gt;, and &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Tolstoy&lt;/a&gt;) but also by the individual anarchism of the philosopher Max Stirner. &lt;i&gt;Sanine&lt;/i&gt; was originally written in 1903, but publication was delayed until 1907 due to problems with censorship. Even publication didn’t stop Artsybashev’s problems, as by 1908 the novel was banned as “pornographic.” This edition is based on the 1915 translation by Percy Pinkerton.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/9051</dc:source>
 		<dc:source>https://archive.org/details/sanineart00artsuoft</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">96852</meta>
+		<meta property="se:reading-ease.flesch">74.39</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Sanin_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mikhail-artsybashev_sanine_percy-pinkerton</meta>
 		<dc:creator id="author">Mikhail Artsybashev</dc:creator>
@@ -92,6 +93,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
