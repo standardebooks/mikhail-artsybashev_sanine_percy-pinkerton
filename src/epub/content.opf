@@ -54,25 +54,25 @@
 		<meta property="alternate-script" refines="#author" xml:lang="ru">Михаи́л Петро́вич Арцыба́шев</meta>
 		<meta property="se:name.person.full-name" refines="#author">Mikhail Petrovich Artsybashev</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Mikhail_Artsybashev</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n50001892</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50001892</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Percy Pinkerton</dc:contributor>
 		<meta property="file-as" refines="#translator">Pinkerton, Percy</meta>
 		<meta property="se:name.person.full-name" refines="#translator">Percy Edward Pinkerton</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Percy_Edward_Pinkerton</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">https://id.loc.gov/authorities/names/n84144346</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n84144346</meta>
 		<meta property="se:role" refines="#translator" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="foreword">Gilbert Cannan</dc:contributor>
 		<meta property="file-as" refines="#foreword">Cannan, Gilbert</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#foreword">https://en.wikipedia.org/wiki/Gilbert_Cannan</meta>
-		<meta property="se:url.authority.nacoaf" refines="#foreword">https://id.loc.gov/authorities/names/n50051536</meta>
+		<meta property="se:url.authority.nacoaf" refines="#foreword">http://id.loc.gov/authorities/names/n50051536</meta>
 		<meta property="role" refines="#foreword" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Anders Zorn</dc:contributor>
 		<meta property="file-as" refines="#artist">Zorn, Anders</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Anders Leonard Zorn</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Anders_Zorn</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n80063107</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n80063107</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Juliet Sutherland</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Sutherland, Juliet</meta>
