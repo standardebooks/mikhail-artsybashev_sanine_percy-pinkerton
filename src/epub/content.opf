@@ -37,7 +37,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A group of young Russians veer between nihilism and hedonism as they try to discover their place in life.</dc:abstract>
+		<meta property="schema:abstract">A group of young Russians veer between nihilism and hedonism as they try to discover their place in life.</meta>
 		<dc:description>
 			&lt;p&gt;Vladimir Sanine has arrived back to the family home where his mother and younger sister live, after several years away. While deciding what to do with his life, he meets up with a circle of friends and acquaintances, old and new, and spends his time as many carefree young adults do: in a whirl of parties, politics, picnics, and philosophical talk. But the freedoms of early twentieth century Russia are still held back by the structures of historical conduct, and their carefree attitudes erode when put in conflict with society’s expectations.&lt;/p&gt;
 			&lt;p&gt;In &lt;i&gt;Sanine&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/mikhail-artsybashev"&gt;Artsybashev&lt;/a&gt; describes a group of young adults in a time of great uncertainty, with ongoing religious and political upheaval a daily occurrence. A big focus of the critical response when it was published was on the portrayal of sexuality of the youths, something genuinely new and shocking for most readers.&lt;/p&gt;
