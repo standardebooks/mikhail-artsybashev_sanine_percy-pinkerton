@@ -54,7 +54,7 @@
 		<link href="https://github.com/standardebooks/mikhail-artsybashev_sanine_percy-pinkerton" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Mikhail Artsybashev</dc:creator>
 		<meta property="file-as" refines="#author">Artsybashev, Mikhail</meta>
-		<meta property="alternate-script" refines="#author" xml:lang="ru">Михаи́л Петро́вич Арцыба́шев</meta>
+		<meta property="alternate-script" refines="#author">Михаи́л Петро́вич Арцыба́шев</meta>
 		<meta property="schema:alternateName" refines="#author">Mikhail Petrovich Artsybashev</meta>
 		<link href="https://en.wikipedia.org/wiki/Mikhail_Artsybashev" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50001892.html" refines="#author" rel="schema:sameAs"/>
